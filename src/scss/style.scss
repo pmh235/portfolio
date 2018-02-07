@@ -1,0 +1,27 @@
+.port-item {
+    width: 25%;
+    .fa {
+        font-size: 2em;
+    }
+}
+
+a .fa {
+    font-size: 1.5em;
+    color: white;
+}
+a .fa:hover {
+    color: rgb(8, 131, 247);
+}
+
+.port-item:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+img {
+    height: 100%;
+}
+
+.bg-black {
+    background: black;
+}
